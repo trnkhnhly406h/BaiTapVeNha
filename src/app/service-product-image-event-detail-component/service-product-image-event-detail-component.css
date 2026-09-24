@@ -1,0 +1,12 @@
+/* Giới hạn kích thước ảnh */
+img {
+  max-width: 120px; /* Hoặc max-height: 150px tùy bạn muốn chỉnh theo chiều nào */
+  height: auto;
+  display: block;
+}
+
+/* Thu gọn kích thước bảng */
+table {
+  max-width: 350px;
+  width: 100%;
+}
